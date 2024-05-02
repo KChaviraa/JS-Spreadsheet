@@ -12,8 +12,11 @@ UI Customization: The user interface is customizable, allowing users to arrange 
 
 Usage:
 Installation: Clone the repository to your local machine.
+
 Setup: Open the index.html file in a web browser.
+
 Usage: Enter data and formulas into cells, and observe the results. Formulas must start with an equal sign (=) to be recognized.
+
 Customization: Modify the code to add new functions, customize the UI, or extend the application's functionality as needed.
 
 To view the output, use this link: https://kchaviraa.github.io/JS-Spreadsheet/
