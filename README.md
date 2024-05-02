@@ -11,6 +11,7 @@ Range Operations: Users can perform operations on ranges of cells, such as summi
 UI Customization: The user interface is customizable, allowing users to arrange cells, adjust formatting, and personalize their workspace.
 
 Usage:
+
 Installation: Clone the repository to your local machine.
 
 Setup: Open the index.html file in a web browser.
